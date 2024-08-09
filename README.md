@@ -32,6 +32,6 @@ Ensure you have the following installed:
 - **Node.js**: To run the server and frontend.
 - **MongoDB**: To store your transaction data.
 
-#Contributing
+# Contributing
 If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
