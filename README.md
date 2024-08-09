@@ -1,8 +1,8 @@
-# Transaction Tracker
+# Money Tracker
 
 ## Overview
 
-Transaction Tracker is a web application designed to help users manage their financial transactions. This application allows users to add, view, and track expenses and income, providing a clear overview of their financial balance.
+Money Tracker is a web application designed to help users manage their financial transactions. This application allows users to add, view, and track expenses and income, providing a clear overview of their financial balance.
 
 ## Features
 
